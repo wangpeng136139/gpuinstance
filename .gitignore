@@ -1,0 +1,11 @@
+Library
+Logs
+obj
+ProjectSettings
+Temp
+UnityPackageManager
+*.csproj
+*.sln
+.DS_Store
+.vs
+.idea
